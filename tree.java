@@ -1,3 +1,5 @@
+import java.util.HashMap;
+//i dont like vector from minions
 class TreeAncestor {
     int n;
     int[] parent;
